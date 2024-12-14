@@ -1,0 +1,13 @@
+
+  
+  
+
+  .swiper-grid-column > .swiper-wrapper{
+    flex-direction: unset !important;
+  }
+
+  .swiper-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet, .swiper-pagination-horizontal.swiper-pagination-bullets .swiper-pagination-bullet {
+    margin: -52px var(--swiper-pagination-bullet-horizontal-gap, 19px) !important;
+    
+}
+  

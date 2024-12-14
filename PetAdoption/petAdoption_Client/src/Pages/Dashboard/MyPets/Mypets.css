@@ -1,0 +1,5 @@
+.bulletStyle{
+    display: flex;
+    justify-content: space-evenly;
+   font: bold;
+}

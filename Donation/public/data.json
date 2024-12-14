@@ -1,0 +1,135 @@
+ [
+        {
+            "picture": "https://i.ibb.co/Q6gwfxY/water.png",
+            "title": "Clean Water Initiative",
+            "category": "Water",
+            "category_bg": "#3498db",
+            "card_bg": "#ecf0f1",
+            "description": "This initiative focuses on providing access to clean and safe drinking water to communities in need. Your contribution will help install water purification systems, dig wells, and implement sustainable water management practices. Together, we can make a significant impact on improving health and well-being for countless individuals. Join us in this crucial mission to ensure that no one has to go without this basic human necessity",
+            "text_button_bg": "#2c3e50",
+            "price": 200,
+            "id":1
+        },
+        {
+            "picture": "https://i.ibb.co/sCcWvxd/education.jpg",
+            "title": "Education for Underprivileged Children",
+            "category": "Education",
+            "category_bg": "#e74c3d",
+            "card_bg": "#f5b7b1",
+            "description": "Join us in supporting the education of underprivileged children who lack access to quality learning opportunities. Your contribution will provide essential resources like school supplies, textbooks, and support for teachers. Together, we can empower these children with the tools they need for a brighter future. With your generous donation of $300, you can directly impact the lives of these children, giving them hope and a chance for a better tomorrow",
+            "text_button_bg": "#9b59b6",
+            "price": 300,
+            "id":2
+        },
+        {
+            "picture": "https://i.ibb.co/9TKKvFX/pexels-safari-consoler-11834973.jpg",
+            "title": "Food for the Hungry",
+            "category": "Food",
+            "category_bg": "#e67e22",
+            "card_bg": "#f9bf77",
+            "text_button_bg": "#e74c3c",
+            "description": "Hunger is a pressing issue affecting millions of individuals and families worldwide. Our Food for the Hungry program strives to alleviate this suffering by providing nutritious meals and food assistance to those in need. Through partnerships with local farmers, food banks, and community organizations, we work to combat food insecurity and ensure that no one goes to bed hungry. Your generous donation will make a direct and immediate impact on the lives of those facing food scarcity.",
+            "price": 150,
+            "id":3
+        },
+        {
+            "picture": "https://i.ibb.co/qMLLT0w/medical.jpg",
+            "title": "Medical Relief Fund",
+            "category": "Health",
+            "category_bg": "#27ae60",
+            "card_bg": "#a9dfbf",
+            "text_button_bg": "#16a085",
+            "description": "Access to quality healthcare is a basic human right, yet many individuals around the world lack the resources and support they need for proper medical treatment. The Medical Relief Fund provides critical medical supplies, treatments, and support to those facing health challenges. By contributing to this initiative, you are helping to save lives and improve the health and well-being of individuals in need.",
+            "price": 500,
+            "id":4
+        },
+        {
+            "picture": "https://i.ibb.co/V2DggSN/homeless.jpg",
+            "title": "Shelter for Homeless",
+            "category": "Housing",
+            "category_bg": "#b075c9",
+            "card_bg": "#75ae27",
+            "text_button_bg": "#c39bd3",
+            "description": "Homelessness is a complex issue that affects millions of people, leaving them vulnerable and without a safe place to call home. Our Shelter for Homeless program aims to provide immediate relief and long-term solutions for individuals and families in need of housing. Through the construction of shelters, transitional housing, and supportive services, we work to create stable and secure living environments. Your contribution will provide hope and dignity to those experiencing homelessness.",
+            "price": 400,
+            "id":5
+        },
+        {
+            "picture": "https://i.ibb.co/N61kPXj/environent.jpg",
+            "title": "Environmental Conservation",
+            "category": "Environment",
+            "category_bg": "#16a085",
+            "card_bg": "#a2d9ce",
+            "text_button_bg": "#27ae60",
+            "description": "Protecting our environment is essential for the well-being of current and future generations. The Environmental Conservation program focuses on preserving natural habitats, promoting sustainable practices, and combating environmental degradation. Through initiatives such as reforestation, wildlife conservation, and pollution control, we work to safeguard our planet's biodiversity. Your support for this program will contribute to a healthier and more sustainable world.",
+            "price": 250,
+            "id":6
+        },
+        {
+            "picture": "https://i.ibb.co/8gGVK8R/animal.png",
+            "title": "Animal Welfare",
+            "category": "Animals",
+            "category_bg": "#f39c12",
+            "card_bg": "#f9e79f",
+            "text_button_bg": "#d4ac0d",
+            "description": "Animals play a crucial role in our ecosystem, and it is our responsibility to ensure their well-being. The Animal Welfare program is dedicated to providing care, shelter, and medical attention to animals in need. Through rescue operations, spaying/neutering initiatives, and educational outreach, we strive to create a more compassionate and humane world for our furry friends. Your donation will directly support our efforts to protect and advocate for animals.",
+            "price": 350,
+            "id":7
+        },
+        {
+            "picture": "https://i.ibb.co/2YCB9BM/slider-earthquake.jpg",
+            "title": "Disaster Relief",
+            "category": "Emergency",
+            "category_bg": "#c0392b",
+            "card_bg": "#fbe1de",
+            "text_button_bg": "#e74c3c",
+            "description": "Natural disasters and emergencies can strike without warning, leaving communities in distress and in need of immediate assistance. Our Disaster Relief program provides rapid response and aid to those affected by disasters such as hurricanes, earthquakes, floods, and wildfires. Through the distribution of essential supplies, medical care, and temporary shelter, we strive to provide comfort and support during these challenging times. Your contribution will make a significant difference in the lives of those facing emergencies.",
+            "price": 450,
+            "id":8
+        },
+        {
+            "picture": "https://i.ibb.co/8KGNFwC/women-emp.jpg",
+            "title": "Empowerment for Women",
+            "category": "Women",
+            "category_bg": "#d35400",
+            "card_bg": "#f2f977",
+            "text_button_bg": "#e67e22",
+            "description": "Empowering women is essential for creating more inclusive and equitable societies. The Empowerment for Women program focuses on providing education, skills training, and economic opportunities to women in marginalized communities. By supporting this initiative, you are helping to break down barriers and create a brighter future for women and their families. Your contribution will have a lasting impact on the lives of women striving for independence and empowerment.",
+            "price": 300,
+            "id":9
+        },
+        {
+            "picture": "https://i.ibb.co/T1wBpLW/youth.jpg",
+            "title": "Youth Development",
+            "category": "Youth",
+            "category_bg": "#2980b9",
+            "card_bg": "#a9cce3",
+            "text_button_bg": "#3498db",
+            "description": "Investing in the development and well-being of young people is crucial for building strong and thriving communities. The Youth Development program focuses on providing educational resources, mentorship, and recreational activities for youth in underserved areas. By supporting this initiative, you are helping to shape the leaders of tomorrow and giving young individuals the tools they need to succeed. Your contribution will make a positive difference in the lives of youth striving for a brighter future.",
+            "price": 200,
+            "id":10
+        },
+        {
+            "picture": "https://i.ibb.co/44ndcRW/senior-care-business-powerpoint-templates-376716.jpg",
+            "title": "Elderly Care",
+            "category": "Elderly",
+            "category_bg": "#8e44ad",
+            "card_bg": "#d2b4de",
+            "text_button_bg": "#bb8fce",
+            "description": "Providing care and support for the elderly is a vital aspect of creating inclusive and compassionate communities. The Elderly Care program focuses on offering medical assistance, companionship, and recreational activities to seniors in need. By supporting this initiative, you are helping to improve the quality of life for older individuals and ensuring they are able to age with dignity and respect. Your contribution will have a meaningful impact on the well-being of the elderly.",
+            "price": 250,
+            "id":11
+        },
+        {
+            "picture": "https://i.ibb.co/bHYyF2n/community.jpg",
+            "title": "Community Development",
+            "category": "Community",
+            "category_bg": "#e67e22",
+            "card_bg": "#f9bf77",
+            "text_button_bg": "#e74c3c",
+            "description": "Strong and thriving communities are built on the foundation of support, empowerment, and opportunity. The Community Development program focuses on initiatives that enhance the well-being and livelihoods of local communities. Through projects such as infrastructure development, skills training, and access to essential services, we work to create vibrant and sustainable neighborhoods. Your support for this program will contribute to the growth and prosperity of communities in need.",
+            "price": 35,
+            "id":12
+        }
+        
+    ]

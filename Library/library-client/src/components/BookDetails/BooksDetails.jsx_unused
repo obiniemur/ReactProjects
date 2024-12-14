@@ -1,0 +1,22 @@
+import {useLoaderData} from "react-router-dom";
+
+const BooksDetails = () => {
+  const dataLoader = useLoaderData();
+  return (
+    <div>
+      {
+        dataLoader.map((data)=>{
+            return(
+                <div key={data._id} className="w-96 h-96 border-2 mt-4">
+
+                    
+
+                </div>
+            )
+        })
+      }
+    </div>
+  );
+};
+
+export default BooksDetails;

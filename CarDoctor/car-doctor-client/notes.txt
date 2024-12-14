@@ -1,0 +1,2 @@
+https://reactrouter.com/en/main/start/tutorial
+https://tailwindcss.com/docs/guides/vite

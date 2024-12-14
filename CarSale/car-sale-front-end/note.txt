@@ -1,0 +1,14 @@
+http://localhost:5173/addcar
+https://obi-car-shop-backend.vercel.app/brands/toyota
+
+figma
+https://www.figma.com/file/TCSlowCjKrLF4NgQRZw7CE/Floopyinn-Rental-Website-Ui--kit-(Community)?type=design&node-id=1-23&mode=design&t=4liTOHkLuCYj3rwc-0
+
+Gihub
+https://github.com/ProgrammingHero1/Brand-Shop/blob/main/task_description_10.md
+
+
+https://daisyui.com/components/card/
+
+https://ibb.co/album/98X5rX
+

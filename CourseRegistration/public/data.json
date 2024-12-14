@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "Python Programming for Beginners",
+        "image_url": "https://i.ibb.co/7zSVfL3/Rectangle-2-4.png",
+        "price": 19.99,
+        "duration": 5,
+        "details": "This course will teach you the basics of Python programming, including variables, data types, loops, conditional statements, functions, and more."
+    },
+    {
+        "id": 2,
+        "title": "Web Development with HTML, CSS, js",
+        "image_url": "https://i.ibb.co/fvb3kPf/Rectangle-2-5.png",
+        "price": 29.99,
+        "duration": 7,
+        "details": "This course will teach you the basics of web development with HTML, CSS, and JavaScript. You will learn how to create and style web pages, and how to add interactivity with JavaScript."
+    },
+    {
+        "id": 3,
+        "title": "Data Science with Python and R",
+        "image_url": "https://i.ibb.co/B3c9JcJ/Rectangle-2-6.png",
+        "price": 39.99,
+        "duration": 10,
+        "details": "This course will teach you the basics of data science with Python and R. You will learn how to clean and prepare data, how to perform statistical analysis, and how to visualize data."
+    },
+    {
+        "id": 4,
+        "title": "Machine Learning with Python",
+        "image_url": "https://i.ibb.co/f13mvhr/Rectangle-3.png",
+        "price": 49.99,
+        "duration": 5,
+        "details": "This course will teach you the basics of machine learning with Python. You will learn about different machine learning algorithms, how to train and evaluate machine learning models, and how to deploy machine learning models to production."
+    },
+    {
+        "id": 5,
+        "title": "Digital Marketing",
+        "image_url": "https://i.ibb.co/HCF9KGj/Rectangle-3-1.png",
+        "price": 59.99,
+        "duration": 8,
+        "details": "This course will teach you how to create and run effective digital marketing campaigns with Google Ads and Facebook Ads. You will learn about targeting, bidding, and ad copy, and how to use these tools to reach your target audience and achieve your marketing goals."
+    },
+    {
+        "id": 6,
+        "title": "Graphic Design",
+        "image_url": "https://i.ibb.co/ZSq2FsY/Rectangle-2.png",
+        "price": 69.99,
+        "duration": 4,
+        "details": "This course will teach you the basics of graphic design with Adobe Photoshop and Illustrator. You will learn how to create and edit digital images, how to create vector graphics, and how to design logos, brochures, and other marketing materials."
+    },
+    {
+        "id": 7,
+        "title": "Video Editing with Adobe Premiere Pro",
+        "image_url": "https://i.ibb.co/x11321R/Rectangle-2-1.png",
+        "price": 79.99,
+        "duration": 20,
+        "details": "This course will teach you the basics of video editing with Adobe Premiere Pro. You will learn how to import and organize video footage, how to perform basic edits, and how to add transitions, effects, and music. You will also learn how to export your videos in different formats."
+    },
+    {
+        "id": 8,
+        "title": "Photography with a DSLR Camera",
+        "image_url": "https://i.ibb.co/CsgwdjS/Rectangle-2-2.png",
+        "price": 89.99,
+        "duration": 15,
+        "details": "This course will teach you the basics of photography with a DSLR camera. You will learn about the different settings on your camera, how to compose a good photo, and how to take different types of photos, such as portraits, landscapes, and action shots."
+    },
+    {
+        "id": 9,
+        "title": "The Complete Python Developer Course",
+        "image_url": "https://i.ibb.co/VjyqfSG/Rectangle-2-3.png",
+        "price": 99.99,
+        "duration": 5,
+        "details": "This course will teach you everything you need to know to become a Python developer. You will learn the basics of Python programming, including variables, data types, loops, conditional statements, functions, and modules. You will also learn about object-oriented programming, error handling, testing, and deployment."
+    }
+]

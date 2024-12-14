@@ -1,0 +1,8 @@
+
+  .swiper-pagination-bullets {
+    bottom: var(--swiper-pagination-bottom, 48px) !important;
+    top: var(--swiper-pagination-top, auto);
+    left: 0;
+    width: 100%;
+}
+  

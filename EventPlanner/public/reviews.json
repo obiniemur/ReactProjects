@@ -1,0 +1,39 @@
+ [
+      {
+        "id": "review_001",
+        "user": "Alice",
+        "rating": 5,
+        "comment": "Absolutely loved the event! The venue was stunning, and the attention to detail was impeccable. The food was delicious, and the staff were incredibly attentive. Can't wait for the next one!",
+        "image": "https://i.ibb.co/8rJr2jG/review-Icon.webp"
+      },
+      {
+        "id": "review_002",
+        "user": "Bob",
+        "rating": 4,
+        "comment": "Had a great time at the conference. The speakers were knowledgeable and engaging. The venue was comfortable, and the networking opportunities were valuable. Would definitely attend again.",
+        "image": "https://i.ibb.co/8rJr2jG/review-Icon.webp"
+      },
+      {
+        "id": "review_003",
+        "user": "Charlie",
+        "rating": 5,
+        "comment": "The art exhibition was a visual feast! The variety of artworks was impressive, and the layout of the gallery allowed for easy exploration. I was truly inspired by the talent on display.",
+        "image": "https://i.ibb.co/8rJr2jG/review-Icon.webp"
+      },
+      {
+        "id": "review_004",
+        "user": "David",
+        "rating": 4,
+        "comment": "The networking event exceeded my expectations. The atmosphere was conducive to meaningful conversations, and the organizers did a great job in facilitating connections. A productive and enjoyable evening.",
+        "image": "https://i.ibb.co/8rJr2jG/review-Icon.webp"
+      },
+      {
+        "id": "review_005",
+        "user": "Eve",
+        "rating": 5,
+        "comment": "Attended the wine tasting event and was blown away by the selection of wines and the pairing with delicious dishes. The sommeliers were knowledgeable and approachable. A delightful experience.",
+        "image": "https://i.ibb.co/8rJr2jG/review-Icon.webp"
+      }
+    ]
+  
+  
